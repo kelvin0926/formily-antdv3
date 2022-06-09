@@ -1,5 +1,6 @@
 # formily-antdv3
-适配formilyjs antdv3版本，采用vite+vue3+ant-design-vue 3.x版本
+适配formilyjs antdv3版本，采用vite+vue3+ant-design-vue 3.x版本。
+
 基于 [https://github.com/qq1037305420/element-plus](https://github.com/qq1037305420/element-plus) 修改。
 
 
