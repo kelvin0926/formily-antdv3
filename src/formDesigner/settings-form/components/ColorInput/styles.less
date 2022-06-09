@@ -1,0 +1,28 @@
+@import '../../styles.less';
+
+.dn-color-input {
+  width: 100%;
+
+  .@{antdv-prefix}-popover-inner-content {
+    padding: 0 !important;
+    user-select: none;
+  }
+
+  .@{antdv-prefix}-input__prefix {
+    display: flex;
+    align-items: center;
+  }
+  .ant-input--prefix {
+    .@{antdv-prefix}-input__inner {
+      padding-left: 0;
+    }
+  }
+
+  &-color-tips {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    border: 1px solid @border-color-base;
+    cursor: pointer;
+  }
+}
