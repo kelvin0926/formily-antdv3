@@ -68,7 +68,7 @@ import {
     ResourceWidget,
     ComponentTreeWidget,
     ViewportPanel
-} from '@form-designer/prototypes'
+} from './playground/prototypes'
 import {
     Form,
     Field,
@@ -97,9 +97,9 @@ import {
     TreeSelect,
     Slider,
     Rate
-} from '@form-designer/renderer'
+} from './playground/renderer'
 
-import { SettingsForm } from '@form-designer/settings-form'
+import { SettingsForm } from './playground/settings-form'
 GlobalRegistry.registerDesignerLocales({
     'zh-CN': {
         sources: {

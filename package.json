@@ -11,6 +11,7 @@
     "@codemirror/lang-javascript": "^0.20.1",
     "@designable/core": "^1.0.0-beta.45",
     "@designable/formily-transformer": "^1.0.0-beta.45",
+    "@formily/antdv-x3": "^1.0.0-alpha.5",
     "@formily/grid": "^2.1.4",
     "@formily/reactive-vue": "^2.1.4",
     "@formily/vue": "^2.1.4",
